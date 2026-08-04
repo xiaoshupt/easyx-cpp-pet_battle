@@ -32,3 +32,6 @@ Release/
 *.zip
 *.rar
 *.7z
+
+# 游戏存档（个人数据，不传 GitHub）
+save*.txt
