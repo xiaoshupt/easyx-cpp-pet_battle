@@ -71,7 +71,7 @@
 ## 编译运行
 
 1. 安装 Visual Studio 2022，勾选【使用 C++ 的桌面开发】工作负载
-2. 到 EasyX 官网（https://easyx.cn）下载 EasyX，按提示安装到 VS2022
+2. 到 EasyX 官网（https://easyx.cn ）下载 EasyX，按提示安装到 VS2022
 3. 双击打开 `宠物大战/宠物大战666.sln`
 4. 顶部配置选择 **Debug + x64**
 5. 按 `F5`（或点“本地 Windows 调试器”）编译并运行
